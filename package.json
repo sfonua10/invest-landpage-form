@@ -1,0 +1,14 @@
+{
+  "name": "invest-landpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.21.19",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "gatsby develop"
+  }
+}
